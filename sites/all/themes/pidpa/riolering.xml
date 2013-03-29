@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<riooleringinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<riool>
+	<postcode>2300</postcode>
+	<gemeente>turnhout</gemeente>
+	<rioolbeheerder>pidpa</rioolbeheerder>
+	<drinkwater>pidpa</drinkwater>
+	<rioolaansluiting>0</rioolaansluiting>
+	<straatkolken>0</straatkolken>
+	<grachten>0</grachten>
+	<iba>0</iba>
+	<Kolom1>info</Kolom1>
+</riool>
+<riool>
+	<postcode>2300</postcode>
+	<gemeente>turnhout</gemeente>
+	<rioolbeheerder>pidpa</rioolbeheerder>
+	<drinkwater>pidpa</drinkwater>
+	<rioolaansluiting>0</rioolaansluiting>
+	<straatkolken>0</straatkolken>
+	<grachten>0</grachten>
+	<iba>0</iba>
+	<Kolom1>info</Kolom1>
+</riool>	
+</riooleringinfo>

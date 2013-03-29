@@ -1,0 +1,28 @@
+name = PIDPA
+description = PIDPA template v01
+screenshot = images/screenshot.png
+core = 7.x
+engine = phptemplate
+
+; Stylesheets. Anything within the "framework" folder will be placed before all others.
+stylesheets[all][] = styles/framework/reset.css
+stylesheets[all][] = styles/framework/text.css
+stylesheets[all][] = styles/framework/960.css
+stylesheets[all][] = styles/framework/debug.css
+
+; Theme specific styles. Any sub-themes should override this.
+stylesheets[all][] = styles/styles.css
+
+regions[page_top]       = Page top	
+regions[header]         = Header
+regions[topnavigatie]   = Topnavigatie
+regions[navigatie]      = Navigatie
+regions[highlighted]    = Highlight
+regions[help]           = Help
+regions[content]        = Content
+regions[sidebar_first]  = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[footer]         = Footer
+regions[page_bottom]    = Page bottom
+
+

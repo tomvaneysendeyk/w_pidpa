@@ -1,0 +1,13 @@
+name = "Webform Calculator"
+description = "Provides a formula webform component, where you can enter a mathematical calculation based on the other fields."
+core = "7.x"
+php = "5.2.4"
+dependencies[] = "token"
+dependencies[] = "webform"
+dependencies[] = "webform_tokens"
+; Information added by drupal.org packaging script on 2012-11-07
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "webform_calculator"
+datestamp = "1352253148"
+
